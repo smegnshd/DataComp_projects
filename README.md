@@ -1,2 +1,2 @@
-# DataComp Caurse slides, course assesments and projects
+# DataComp course slides, course assesments and projects
 
