@@ -1,0 +1,10 @@
+sizeid,animaltype,size,costs
+DL,Dog,Large,175
+DM,Dog,Medium,150
+DS,Dog,Small,125
+CL,Cat,Large,140
+CM,Cat,Medium,120
+CS,Cat,Small,100
+BL,Bird,Large,110
+BM,Bird,Medium,90
+BS,Bird,Small,70
